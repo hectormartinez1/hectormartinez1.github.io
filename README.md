@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project
 
-
-https://github.com/hectormartinez1/hectormartinez1.github.io/blob/master/Capture.PNG
+![Capture.PNG](picture https://github.com/hectormartinez1/hectormartinez1.github.io/blob/master/Capture.PNG
+?raw=true "Capture.PNG")
 
 ***
